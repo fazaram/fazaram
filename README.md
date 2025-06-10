@@ -6,7 +6,7 @@
 
 #### Hi there, i am Faza Rama Nugraha 👋
 
-##### i'm a fullstack developer
+#### i'm a fullstack developer
 
 ### Connect with me:
 
