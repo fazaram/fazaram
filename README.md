@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/26FLdmIp6wJr91JAI/giphy.gif" alt="My Banner" width="100%" />
-</p>
+![Banner](https://media.giphy.com/media/26FLdmIp6wJr91JAI/giphy.gif)
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=fazaram.visitor-badge&left_color=red&right_color=green)
 
