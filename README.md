@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,tailwindcss,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,golang,laravel,tailwindcss,mysql,postgres,notion,figma&theme=light)](https://skillicons.dev)
