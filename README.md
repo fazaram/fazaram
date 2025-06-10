@@ -6,7 +6,7 @@
 
 #### Hi there, i am Faza Rama Nugraha 👋
 
-#### i'm a fullstack developer
+#### I'm a Fullstack Developer who enjoys turning ideas into real, functional, and user-friendly web solutions.
 
 ### Connect with me:
 
