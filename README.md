@@ -4,20 +4,14 @@
 
 ### 💫 About Me:
 
-<div align="justify-center">
-  <table>
-    <tr>
-      <td>
-        <h3>I'm a Fullstack Developer</h3>
-        <p>
-          I specialize in crafting both frontend and backend applications with clean, scalable code. passionate about Laravel, Tailwind CSS, and building impactful web solutions.
-        </p>
-      </td>
-      <td>
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnoyc2ZwcG5uYzJjeGRzb3EweHhybW5nMXdieW8xemM2czBmNDhkdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lYjwL7yNu1HeU/giphy.gif" width="100" alt="Coding gif" />
-      </td>
-    </tr>
-  </table>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div>
+    <h3>I'm a Fullstack Developer</h3>
+    <p>
+      I specialize in crafting both frontend and backend applications with clean, scalable code. Passionate about Laravel, Tailwind CSS, and building impactful web solutions.
+    </p>
+  </div>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnoyc2ZwcG5uYzJjeGRzb3EweHhybW5nMXdieW8xemM2czBmNDhkdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lYjwL7yNu1HeU/giphy.gif" width="100" alt="Coding gif" />
 </div>
 
 ### Connect with me:
