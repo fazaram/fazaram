@@ -6,6 +6,8 @@
 
 #### Hi there, i am Faza Rama Nugraha 👋
 
+##### i'm a fullstack developer
+
 ### Connect with me:
 
 <p align="left">
