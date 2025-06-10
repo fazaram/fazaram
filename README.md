@@ -1,9 +1,17 @@
 ![GIF](https://media.giphy.com/media/UVk5yzljef0kGiayL1/giphy.gif)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fazaram&label=Profile%20views&color=0e75b6&style=flat" alt="fazaram" /> </p>
+
 ### 💫 About Me:
 
 #### Hi there, i am Faza Rama Nugraha 👋
 
+### Connect with me:
+
+<p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/fazaramanugraha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/fazaramanugraha" height="30" width="40" /></a>
+<a href="https://instagram.com/fazaraman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fazaraman" height="30" width="40" /></a>
+</p>
 <!--
 **fazaram/fazaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +25,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
 
 ### 💻 Tech Stack:
 
