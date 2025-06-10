@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![helloo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW5zb2NjMDJpYmwxbWI4M3h6MjFqeXRucnpza3BvMnpzMzdtM2hzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UVk5yzljef0kGiayL1/giphy.gif)
+![GIF](https://media.giphy.com/media/UVk5yzljef0kGiayL1/giphy.gif)
 
 ### 💻 Tech Stack:
 
