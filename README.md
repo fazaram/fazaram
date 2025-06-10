@@ -1,6 +1,7 @@
 ![GIF](https://media.giphy.com/media/UVk5yzljef0kGiayL1/giphy.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fazaram&label=Profile%20views&color=0e75b6&style=flat" alt="fazaram" /> </p>
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green)
+RGB colors eg: #595959 needs to be %23595959 in the URL
 
 ### 💫 About Me:
 
