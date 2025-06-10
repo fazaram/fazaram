@@ -26,3 +26,7 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/fazaram/fazaram/output/snake.svg" alt="Snake animation" />
+
+###
