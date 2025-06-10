@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ![helloo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW5zb2NjMDJpYmwxbWI4M3h6MjFqeXRucnpza3BvMnpzMzdtM2hzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UVk5yzljef0kGiayL1/giphy.gif)
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+### My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=laravel,tailwindcss,nodejs,figma&theme=light)](https://skillicons.dev)
