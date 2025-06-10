@@ -15,7 +15,7 @@
         </p>
       </td>
       <td>
-        <img src="https://media.giphy.com/media/26FLdmIp6wJr91JAI/giphy.gif" width="200" alt="Coding gif" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnoyc2ZwcG5uYzJjeGRzb3EweHhybW5nMXdieW8xemM2czBmNDhkdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lYjwL7yNu1HeU/giphy.gif" width="100" alt="Coding gif" />
       </td>
     </tr>
   </table>
