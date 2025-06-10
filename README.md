@@ -19,10 +19,10 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fazaram&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- ##### Github Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fazaram/fazaram/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fazaram/fazaram/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fazaram/fazaram/output/pacman-contribution-graph.svg">
+</picture>
 
-![Fazaram's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazaram) -->
-
----
-
-<!-- ![visit](https://visitcount.itsvg.in/api?id=fazaram&icon=0&color=0) -->
+###
