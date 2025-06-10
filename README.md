@@ -4,14 +4,13 @@
 
 ### 💫 About Me:
 
-<div align="center">
+<div align="justify-center">
   <table>
     <tr>
       <td>
         <h3>I'm a Fullstack Developer</h3>
         <p>
-          I specialize in crafting both frontend and backend applications with clean, scalable code. <br />
-          Passionate about Laravel, Tailwind CSS, and building impactful web solutions.
+          I specialize in crafting both frontend and backend applications with clean, scalable code. passionate about Laravel, Tailwind CSS, and building impactful web solutions.
         </p>
       </td>
       <td>
