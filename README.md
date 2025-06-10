@@ -17,8 +17,8 @@
 ### Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/fazaramanugraha" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/fazaramanugraha" /></a>
-<a href="https://instagram.com/fazaraman" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="fazaraman" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/fazaramanugraha" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/fazaramanugraha" /></a>
+<a href="https://instagram.com/fazaraman" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="fazaraman" /></a>
 </p>
 
 ### 💻 Tech Stack:
