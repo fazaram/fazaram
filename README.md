@@ -1,8 +1,8 @@
 ![GIF](https://media.giphy.com/media/UVk5yzljef0kGiayL1/giphy.gif)
 
-#### 💫 About Me:
+### 💫 About Me:
 
-##### Hi there, i am Faza Rama Nugraha 👋
+#### Hi there, i am Faza Rama Nugraha 👋
 
 <!--
 **fazaram/fazaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 💻 Tech Stack:
+### 💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,golang,laravel,tailwindcss,mysql,postgres,notion,figma&theme=light)](https://skillicons.dev)
 
