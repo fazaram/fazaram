@@ -4,7 +4,22 @@
 
 ### 💫 About Me:
 
-#### Hi there, i am Faza Rama Nugraha 👋 I'm a Fullstack Developer who enjoys turning ideas into real, functional, and user-friendly web solutions.
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h3>I'm a Fullstack Developer</h3>
+        <p>
+          I specialize in crafting both frontend and backend applications with clean, scalable code. <br />
+          Passionate about Laravel, Tailwind CSS, and building impactful web solutions.
+        </p>
+      </td>
+      <td>
+        <img src="https://media.giphy.com/media/26FLdmIp6wJr91JAI/giphy.gif" width="200" alt="Coding gif" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### Connect with me:
 
