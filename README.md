@@ -19,7 +19,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fazaram&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Play With Me
+### 🎮 Play With Me
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fazaram/fazaram/output/pacman-contribution-graph-dark.svg">
