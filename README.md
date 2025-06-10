@@ -1,4 +1,4 @@
-![Banner](https://media.giphy.com/media/26FLdmIp6wJr91JAI/giphy.gif)
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJmZW9lMnFyanMzcmJrMmhmNWNwd2ljNHR0bW9pbDdvNWczb3RxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FLdmIp6wJr91JAI/giphy.gif" alt="Banner GIF" width="100%" />
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=fazaram.visitor-badge&left_color=red&right_color=green)
 
