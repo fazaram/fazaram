@@ -2,6 +2,8 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=fazaram.visitor-badge&left_color=red&right_color=green)
 
+---
+
 ### 💫 About Me:
 
 <div style="display: flex; align-items: center;">
@@ -14,6 +16,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnoyc2ZwcG5uYzJjeGRzb3EweHhybW5nMXdieW8xemM2czBmNDhkdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lYjwL7yNu1HeU/giphy.gif" width="100" alt="Coding gif" />
 </div>
 
+---
+
 ### Connect with me:
 
 <p align="left">
@@ -21,11 +25,15 @@
 <a href="https://instagram.com/fazaraman" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="fazaraman" /></a>
 </p>
 
+---
+
 ### 💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,golang,laravel,tailwindcss,mysql,postgres,notion,figma&theme=dark)](https://skillicons.dev)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fazaram&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
 
 ### 🎮 Play With Me
 
