@@ -4,7 +4,7 @@
 
 ### 💫 About Me:
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: center;">
   <div>
     <h3>I'm a Fullstack Developer</h3>
     <p>
