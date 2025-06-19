@@ -13,7 +13,7 @@
       I specialize in crafting both frontend and backend applications with clean, scalable code. Passionate about Laravel, Tailwind CSS, and building impactful web solutions.
     </p>
   </div>
-  <img src="https://i.pinimg.com/originals/16/7d/99/167d99e5dc5604b974ef70c159b9681d.gif" width="100" alt="Coding gif" />
+  <img src="https://i.pinimg.com/originals/16/7d/99/167d99e5dc5604b974ef70c159b9681d.gif" width="200" alt="Coding gif" />
 </div>
 
 ---
