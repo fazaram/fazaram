@@ -30,7 +30,7 @@
 
 ### 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,react,nodejs,python,golang,laravel,tailwindcss,mysql,postgres,notion,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,react,nodejs,expressjs,python,golang,laravel,tailwindcss,mysql,postgres,notion,figma&theme=dark)](https://skillicons.dev)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fazaram&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
